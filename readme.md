@@ -9,7 +9,7 @@ Follow these steps to set up the project on your system.
 
 ### **➕ 1. Clone the Project**
 ```bash
-git clone https://github.com/your-repo/desktop-assistant.git
+git clone https://github.com/imonishkumar/Desktop-Voice-Based-AI-Assistant.git
 cd desktop-assistant
 ```
 
